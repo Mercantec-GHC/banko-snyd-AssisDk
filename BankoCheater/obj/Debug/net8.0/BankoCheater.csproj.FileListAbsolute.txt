@@ -1,0 +1,14 @@
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\bin\Debug\net8.0\BankoCheater.exe
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\bin\Debug\net8.0\BankoCheater.deps.json
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\bin\Debug\net8.0\BankoCheater.runtimeconfig.json
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\bin\Debug\net8.0\BankoCheater.dll
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\bin\Debug\net8.0\BankoCheater.pdb
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\BankoCheater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\BankoCheater.AssemblyInfoInputs.cache
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\BankoCheater.AssemblyInfo.cs
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\BankoCheater.csproj.CoreCompileInputs.cache
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\BankoCheater.dll
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\refint\BankoCheater.dll
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\BankoCheater.pdb
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\BankoCheater.genruntimeconfig.cache
+C:\Users\abdia\Desktop\BankoCheater\BankoCheater\obj\Debug\net8.0\ref\BankoCheater.dll
